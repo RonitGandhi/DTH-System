@@ -1,7 +1,7 @@
 # DTH-System
 
 Implementing a Distributed Hash Table (DHT) System for Scalable and Fault-Tolerant Key-Value Storage.
-I.	INTRODUCTION
+
 Implementing a Distributed Hash Table (DHT) System for Scalable and Fault-Tolerant Key-Value Storage involves creating a decentralized infrastructure where nodes collectively manage key-value pairs. Each node is responsible for a specific range of keys, and the system ensures scalability, fault tolerance, and efficient key retrieval across the network.
 
 Key Features of DHTs:
